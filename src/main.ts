@@ -1,6 +1,8 @@
 import "./styles/tailwind.css";
 import "./styles/main.css";
 import Alpine from "alpinejs";
+import "@teage/ui";
+
 import Swup from "swup";
 import SwupHeadPlugin from "@swup/head-plugin";
 import SwupPreloadPlugin from "@swup/preload-plugin";
